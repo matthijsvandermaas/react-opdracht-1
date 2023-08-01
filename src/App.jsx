@@ -3,7 +3,7 @@ import './App.css';
 function App() {
     return (
         <main>
-            <article>
+            <article className="product">
                 <img src="https://www.plusonline.nl/sites/plusonline/files/citroen_1.jpg" alt="a limon"/>
 
                 <h2>Citroen</h2>
@@ -14,7 +14,7 @@ function App() {
                     voedsel.
                 </p>
             </article>
-        </main>
+        </main>git
     );
 }
 
